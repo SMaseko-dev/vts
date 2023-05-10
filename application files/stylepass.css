@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background-color: bisque;
+    font-size: large;
+    text-align: left;
+}
+h1{
+    font-family: sans-serif;
+    font-size: x-large;
+    text-align: left;
+}
+pre{
+    border: 10px;
+    max-width: fit-content;
+    max-height:fit-content;
+    border-radius: 10px;
+    border-color: #ffc79d;
+    border-style: solid;
+}
